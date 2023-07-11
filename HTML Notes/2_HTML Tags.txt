@@ -1,0 +1,25 @@
+# HTML Doctype - HTML doctype is not a tag. Doctype define the html version to browsers, search engines and W3C validator with DTD. 
+
+# HTML Comments - Its only for developers. Comments are started with <!-- and ends with -->. These comments are not visible in browsers.
+
+# HEAD Tag - Head includes all the information related to webpage seo, css links, scripts and meta tags.Head is not visible to user. It is mainly for search engines and browsers.
+	Title Tag - compulsory child of HEAD,Title enhance search engine visibility of a webpage
+	Meta Tag - introduced in HTML5. Earlier meta tag with content and http-equiv was used to declare charset.
+
+HTML4 Meta Charset - > <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+HTML5 Meta Charset -> <meta charset="utf-8">		
+		
+	Link Tag
+	Script Tag
+	Style Tag
+	Base Tag
+
+<base href="https://edunetfoundation.org/home">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="keywords" content="Keywords">
+<meta name="description" content="Search Description">    
+<link href="css/style.css" rel="stylesheet">
+<style></style>
+<script></script>
+

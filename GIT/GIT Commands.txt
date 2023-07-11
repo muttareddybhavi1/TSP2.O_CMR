@@ -1,0 +1,23 @@
+git config --global user.email “YOUREMAILID"
+
+git config --global user.user “YOURUSERNAME"
+
+git init
+
+notepad README.md
+
+git status
+
+git add -A
+
+git commit -m "Message"
+
+git branch -m main
+
+git log
+
+git remote add origin https://github.com/YOURUSERNAME/YOURREPOSITORYNAME.git
+
+git push -u origin main
+
+git clone https://github.com/YOURUSERNAME/YOURREPOSITORYNAME

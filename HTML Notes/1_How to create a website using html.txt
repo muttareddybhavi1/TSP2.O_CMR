@@ -1,0 +1,21 @@
+1.Open VS code editor.
+2.Create page as index.html using NewFile Option on VS Code
+2.Create the doctype of webpage. e.g. <!doctype html>
+3.Create Parent html tag e.g. <html> </html>
+4.Create head tag inside html tag, e.g. <head> </head>
+5.Create body tag after head tag closing, e.g. <body> </body>
+6.Add title tag inside head, e.g. <title> </title>
+7.Add meta tag inside head, e.g. <meta charset="utf-8">
+8.Save page as index.html file on your VS Code.
+9.Right Click the index.html file and open your webpage is live server on web browser
+10.To edit webpage, right click on html file and select open in editor.
+
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Webpage Title</title>
+    <meta charset="utf-8">
+</head>
+<body>
+</body>
+</html>

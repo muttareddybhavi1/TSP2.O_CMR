@@ -1,0 +1,7 @@
+Text: Abbreviations, Quotations, and Code
+
+also use to specifically represent other text-types, such as abbreviations, quotations, and computer code.
+
+<abbr> is used to markup an abbreviation, a shortened form of a word or phrase.
+
+<blockquote> and q are used for quotations. blockquote is generally used for standalone often multi-line quotations whereas <q> is used for shorter, in-line quotations.

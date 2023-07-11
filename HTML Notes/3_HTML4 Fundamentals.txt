@@ -1,0 +1,43 @@
+# Paragraphs
+
+<p> - used for paragraphs. p tag is just the start of text formatting.
+<em> - You can emphasize text in a paragraph
+<strong> - strong (importance).
+<p>Yes, that really <em>is</em> exciting. <strong>Warning:</strong> level of excitement may cause head to explode.</p>
+Line breaks - <br>
+
+# Headings
+
+documents with genuine headings, then there are HTML tags specifically designed just for them.They are h1, h2, h3, h4, h5 and h6, h1 being the almighty emperor of headings and h6 being the lowest pleb.
+
+# Lists
+
+There are three types of list; unordered lists, ordered lists and definition lists.  descriptions (such as a glossary)
+
+<ul> tag is used to define unordered lists and the <ol> tag is used to define ordered lists. Inside the lists, the <li> tag is used to define each list item.
+
+# Links
+
+An anchor tag (a) is used to define a link, but you also need to add something to the anchor tag — the destination of the link.
+
+# Images
+
+The <img> tag is used to put an image in an HTML document
+
+# Tables
+
+The correct use for tables is to do exactly what you would expect a table to do — to structure tabular data.The table element defines the table. The tr element defines a table row.The td element defines a data cell. 
+
+# Forms
+
+Forms are used to collect data inputted by a user. They can be used as an interface for a web application, for example, or to send data across the web.The basic tags used in the actual HTML of forms are form, input, textarea, select and option. select tag works with the option tag to make drop-down select boxes.
+
+<form action="" method="">
+<input type="text">
+<input type="password">
+<input type="checkbox">
+<input type="radio">
+<input type="submit">
+<textarea rows="5" cols="20">A big load of text</textarea>
+
+
